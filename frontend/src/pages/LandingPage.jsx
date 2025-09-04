@@ -37,7 +37,7 @@ const LandingPage = () => {
                 <div className="logo">OCR Extractor</div>
                 <nav>
                     <ul>
-                        <li><a href="#about">What is OCRsss?</a></li>
+                        <li><a href="#about">What is OCR?</a></li>
                         <li><a href="#usecases">Use Cases</a></li>
 
                         {/* Clerk Auth Buttons */}
